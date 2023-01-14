@@ -5,10 +5,10 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **[Berops]**
+- :computer: &nbsp;I’m currently working on **[Claudie]**
 - :seedling: &nbsp;I’m currently learning **Kubernetes nodepool autoscalers**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :speech_balloon: &nbsp;Connect with me on **[LinkedIn]**
-- :computer: &nbsp;I’m currently working on **[Claudie]**
 
 <!-- links -->
 [berops]: https://github.com/Berops "Berops"
