@@ -3,7 +3,7 @@
 - :office: &nbsp;I'm currently working at **[Berops]**
 - :seedling: &nbsp;I’m currently learning **Kubernetes nodepool autoscalers**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :speech_bubble: &nbsp;Connect with me on **[LinkedIn]**
+- :speech_balloon: &nbsp;Connect with me on **[LinkedIn]**
 - :computer: &nbsp;I’m currently working on **[Claudie]**
 
 <!-- links -->
