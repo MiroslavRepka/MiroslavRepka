@@ -7,7 +7,7 @@
 - :computer: &nbsp;I’m currently working on **[Claudie]**
 
 <!-- links -->
-
+[berops]: https://github.com/Berops "Berops"
 [issues page]: https://github.com/MiroslavRepka/MiroslavRepka/issues "MiroslavRepka/issues"
 [linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
 [claudie]: https://github.com/Berops/claudie "Claudie"
