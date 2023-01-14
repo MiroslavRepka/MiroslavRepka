@@ -1,16 +1,13 @@
-### Hi there 👋
+### :wave: Hi there, I am Miroslav Repka
 
-<!--
-**MiroslavRepka/MiroslavRepka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :office: &nbsp;I'm currently working at **[Berops]**
+- :seedling: &nbsp;I’m currently learning **Kubernetes nodepool autoscalers**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :envelope: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;I’m currently working on **[Claudie]**
 
-Here are some ideas to get you started:
+<!-- links -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[issues page]: https://github.com/MiroslavRepka/MiroslavRepka/issues "MiroslavRepka/issues"
+[linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
+[claudie]: https://github.com/Berops/claudie "Claudie"
