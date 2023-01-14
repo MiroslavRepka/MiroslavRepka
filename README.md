@@ -11,3 +11,5 @@
 [issues page]: https://github.com/MiroslavRepka/MiroslavRepka/issues "MiroslavRepka/issues"
 [linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
 [claudie]: https://github.com/Berops/claudie "Claudie"
+
+[![Miro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiroslavRepka&count_private=true&show_icons=true&theme=transparent&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
