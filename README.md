@@ -1,7 +1,7 @@
 <h1 align="left" id="title">:wave: Hi there, I am Miroslav Repka</h1>
 
 <a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiroslavRepka&count_private=true&show_icons=true&theme=transparent&hide=stars" alt="MiroslavRepka" align="right" />
+  <img src="https://github-readme-stats-miroslavrepka.vercel.app/api?username=MiroslavRepka&count_private=true&show_icons=true&theme=transparent&hide=stars" alt="MiroslavRepka" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Berops]**
