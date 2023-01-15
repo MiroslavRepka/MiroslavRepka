@@ -1,7 +1,11 @@
 <h1 align="left" id="title">:wave: Hi there, I am Miroslav Repka</h1>
 
 <!-- Github profile views counter -->
-![](https://komarev.com/ghpvc/?username=MiroslavRepka)
+<a href="#title" align="left">
+  <img src="https://komarev.com/ghpvc/?username=MiroslavRepka" alt="MiroslavRepka"/>
+</a>
+
+<br>
 
 <a href="#title">
   <img src="https://github-readme-stats-miroslavrepka.vercel.app/api?username=MiroslavRepka&count_private=true&show_icons=true&theme=transparent&hide=stars" alt="MiroslavRepka" align="right" />
