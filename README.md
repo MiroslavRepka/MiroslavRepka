@@ -15,3 +15,6 @@
 [issues page]: https://github.com/MiroslavRepka/MiroslavRepka/issues "MiroslavRepka/issues"
 [linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
 [claudie]: https://github.com/Berops/claudie "Claudie"
+
+<!-- Github page hits counter -->
+![](https://hit.yhype.me/github/profile?user_id=42786030)
