@@ -1,5 +1,8 @@
 <h1 align="left" id="title">:wave: Hi there, I am Miroslav Repka</h1>
 
+<!-- Github profile views counter -->
+![](https://komarev.com/ghpvc/?username=MiroslavRepka)
+
 <a href="#title">
   <img src="https://github-readme-stats-miroslavrepka.vercel.app/api?username=MiroslavRepka&count_private=true&show_icons=true&theme=transparent&hide=stars" alt="MiroslavRepka" align="right" />
 </a>
@@ -16,5 +19,4 @@
 [linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
 [claudie]: https://github.com/Berops/claudie "Claudie"
 
-<!-- Github profile views counter -->
-![](https://komarev.com/ghpvc/?username=MiroslavRepka)
+
