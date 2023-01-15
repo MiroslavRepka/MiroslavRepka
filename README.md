@@ -16,5 +16,5 @@
 [linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
 [claudie]: https://github.com/Berops/claudie "Claudie"
 
-<!-- Github page hits counter -->
-![](https://hit.yhype.me/github/profile?user_id=42786030)
+<!-- Github profile views counter -->
+![](https://komarev.com/ghpvc/?username=MiroslavRepka)
