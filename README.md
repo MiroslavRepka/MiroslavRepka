@@ -9,7 +9,7 @@
 
 - :office: &nbsp;I'm currently working at **[Berops]**
 - :computer: &nbsp;I’m currently working on **[Claudie]**
-- :seedling: &nbsp;I’m currently learning **Kubernetes nodepool autoscalers**
+- :seedling: &nbsp;I’m currently learning **[Cluster Autoscaler]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :speech_balloon: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -18,5 +18,4 @@
 [issues page]: https://github.com/MiroslavRepka/MiroslavRepka/issues "MiroslavRepka/issues"
 [linkedin]: https://www.linkedin.com/in/miroslavrepka "Miroslav Repka LinkedIn"
 [claudie]: https://github.com/Berops/claudie "Claudie"
-
-
+[cluster autoscaler]: https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler "Cluster Autoscaler"
